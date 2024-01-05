@@ -30,7 +30,7 @@
   <h2>Getting Started</h2>
   <p>To get started with the Hotel Booking System, follow these steps:</p>
   <ol>
-    <li>Clone the repository: <code>git clone https://github.com/mahendrak1999/Hote-lBbooking-System.git</code></li>
+    <li>Clone the repository: <code>https://github.com/Ankitabhutkar7/Hotel-Booking..git</code></li>
     <li>Install Java Fx & sql</li>
   </ol>
 
