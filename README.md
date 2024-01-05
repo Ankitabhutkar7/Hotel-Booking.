@@ -12,18 +12,18 @@
 
   <h2>Features</h2>
   <ul>
-    <li>User registration and login</li>
+    <li> login User registration and </li>
     <li>Hotel listing and details</li>
-    <li>Booking rooms</li>
+    <li>Rooms Booking</li>
     <li>Managing reservations</li>
-    <li>Admin panel for hotel management</li>
+    <li>Admin Portal for hotel management</li>
   </ul>
 
   <h2>Technologies Used</h2>
   <ul>
-    <li>Java</li>
-    <li>HTML</li>
     <li>CSS</li>
+    <li>HTML</li>
+    <li>JAVA</li>
     <li>MySQL</li>
   </ul>
 
