@@ -1,4 +1,4 @@
-![banner](https://static.vecteezy.com/system/resources/previews/000/358/274/original/vector-hotel-online-booking-banner.jpg)
+![banner](https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWwlMjBib29raW5nfGVufDB8fDB8fHww)
 <!DOCTYPE html>
 <html>
 <head>
